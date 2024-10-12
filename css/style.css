@@ -1,0 +1,23 @@
+
+body {
+    font-family: "Bree Serif";
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+h1 {
+    font-size: xx-large;
+}
+
+h2 {
+    font-style: italic;
+    font-size: medium;
+}
+
+a {
+    text-decoration: none;
+    color: #44bd32;
+}
+
