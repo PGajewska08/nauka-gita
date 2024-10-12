@@ -1,12 +1,8 @@
-
+/* GLOBAL */
 body {
     font-family: "Bree Serif";
 }
 
-.container {
-    display: flex;
-    justify-content: center;
-}
 h1 {
     font-size: xx-large;
 }
@@ -20,4 +16,32 @@ a {
     text-decoration: none;
     color: #44bd32;
 }
+
+p {
+    text-align: left;
+}
+
+/* SECTIONS */
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;.
+}
+
+.title {
+    margin-left: 20px;
+}
+
+.source {
+    margin-right: 100px;
+}
+
+
+.lyrics {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+
 
