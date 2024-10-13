@@ -1,20 +1,23 @@
 /* GLOBAL */
 body {
+    background-color: #82ccdd;
     font-family: "Bree Serif";
 }
 
 h1 {
+    color: #2c2c54;
     font-size: xx-large;
 }
 
 h2 {
+    color: #474787;
     font-style: italic;
     font-size: medium;
 }
 
 a {
     text-decoration: none;
-    color: #44bd32;
+    color: #227093;
 }
 
 p {
